@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: #0776A0;
+}
+
+.photosbutton {
+    background-color: orange;
+    border-radius: 5px;
+    padding: 1px;
+    font-size: 25px
+}
+
+.photos {
+    height: 170px;
+    margin: 20px;
+}
+
+.logo {
+    margin: 10px ;
+}
+
+.samfamily {
+    color: #FF2C00;
+}
+
+footer {
+    background-color: #024C68;
+    font-family: Verdana;
+    color: white;
+    padding: 50px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+ul {
+    margin: 15px;
+    list-style: url(https://mars.algoritmika.org/uploads/2021/01/Arrow%201_0_1611261359.svg)
+}
